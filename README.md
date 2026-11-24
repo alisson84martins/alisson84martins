@@ -40,3 +40,8 @@ Depois traço os caminhos, porque nunca é um só, e construo o que leva mais lo
 ## 🎓 Formação
 
 Análise e Desenvolvimento de Sistemas (em andamento)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alisson%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-martins-2a350238a)
+[![E-mail](https://img.shields.io/badge/E--mail-alisson84martins%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisson84martins@gmail.com)
