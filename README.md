@@ -2,8 +2,8 @@
 
 > **Conhecer o terreno antes de escrever a primeira linha.**
 
-A maioria olha para um problema e vê um muro.
-Eu aprendi a ver um mapa.
+A maioria olha para um problema e vê um muro.  
+**Eu aprendi a ver um mapa.**
 
 Todo problema tem mais de uma saída. Algumas estão à vista; outras só aparecem
 para quem tem coragem de se virar e olhar para fora da caverna.
