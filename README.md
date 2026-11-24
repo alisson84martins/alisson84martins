@@ -21,13 +21,13 @@ Depois traço os caminhos, porque nunca é um só, e construo o que leva mais lo
 `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `JavaScript` · `React` · `HTML/CSS` · `Docker` · `PWA` · `GitHub Actions`
 
 ## 🚀 Projetos em produção
-*Código privado, disponível sob demanda.*
+*Em uso e testes reais. Código privado; clique no nome para ver a vitrine do projeto.*
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| **Sofia ERP** | Controle de estoque para loja de moda, com perfis de acesso, auditoria e CI | React · FastAPI · PostgreSQL · Docker |
+| **[Sofia Modas ERP](https://github.com/alisson84martins/sofia-modas-erp)** | Controle de estoque para loja de moda, com perfis de acesso, auditoria e CI | React · FastAPI · PostgreSQL · Docker |
 | **Gestão de Pátio** | Alocação de recursos em pátio a partir do planejamento diário, com funcionamento offline | HTML/JS · PWA · Python |
-| **Gestão Operacional** | Pátio, portaria, manutenção, ocorrências e fiscalização em um só painel | Python · FastAPI |
+| **[Gestão Operacional](https://github.com/alisson84martins/gestao-operacional)** | Pátio, portaria, manutenção, ocorrências e fiscalização em um só painel | Python · FastAPI |
 | **Fiscalização de Linhas** | Backend e painel com autenticação compartilhada entre sistemas | FastAPI · PostgreSQL |
 
 ## 📂 Projetos abertos
